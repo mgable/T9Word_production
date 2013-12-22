@@ -12,7 +12,6 @@ body {
     line-height: 30px;
     background-color: #eee;
     border-radius: 6px;
-    padding: 60px;
 }
 
 .hero-unit h1 {
@@ -21,10 +20,6 @@ body {
     letter-spacing: -1px;
 }
 
-.hero-unit button.btn {
+.hero-unit .btn {
     margin:0 0 10px;
-}
-
-.hero-unit .error {
-    display:none;
 }
